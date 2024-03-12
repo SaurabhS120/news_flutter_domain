@@ -1,7 +1,7 @@
-import 'package:domain/errors/base_error.dart';
-import 'package:domain/model/news_model.dart';
-import 'package:domain/repo/news_repo.dart';
-import 'package:domain/usecase/base_usecase.dart';
+import 'package:news_flutter_domain/errors/base_error.dart';
+import 'package:news_flutter_domain/model/news_model.dart';
+import 'package:news_flutter_domain/repo/news_repo.dart';
+import 'package:news_flutter_domain/usecase/base_usecase.dart';
 import 'package:either_dart/either.dart';
 
 /// Use-case is mediator between presentation layer view model and domain layer repos

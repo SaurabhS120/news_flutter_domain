@@ -1,5 +1,5 @@
-import 'package:domain/errors/base_error.dart';
-import 'package:domain/model/news_model.dart';
+import 'package:news_flutter_domain/errors/base_error.dart';
+import 'package:news_flutter_domain/model/news_model.dart';
 import 'package:either_dart/either.dart';
 
 /// Domain layer contains abstract implementations of Repos which will be used by

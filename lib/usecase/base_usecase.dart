@@ -1,4 +1,4 @@
-import 'package:domain/errors/base_error.dart';
+import 'package:news_flutter_domain/errors/base_error.dart';
 import 'package:either_dart/either.dart';
 
 /// The generic base class of use-case will force to have an execute function

@@ -1,10 +1,10 @@
-# domain
+# news_flutter_domain
 
 News app domain layer
 
 ## Getting Started
 
-For help getting started with Flutter development, view the online
+For help getting started with Flerutter development, view the online
 [documentation](https://flutter.dev/).
 
 For instructions integrating Flutter modules to your existing applications,
