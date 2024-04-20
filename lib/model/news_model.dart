@@ -4,6 +4,7 @@
 /// This models will be used in presentation layer
 class NewsModel{
   final String title;
+  final String imageUrl;
 
-  NewsModel({required this.title});
+  NewsModel({required this.title,required this.imageUrl});
 }
